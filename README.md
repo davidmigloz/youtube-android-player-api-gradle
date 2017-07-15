@@ -31,6 +31,14 @@ dependencies {
 
 - YouTubeAndroidPlayerApi v1.2.2
 
+## API levels
+```gradle
+minSdkVersion 19
+targetSdkVersion 25
+compileSdkVersion 25
+buildToolsVersion "25.0.2"
+```
+
 ## License
 
 Copyright 2012 Google Inc. All Rights Reserved.
