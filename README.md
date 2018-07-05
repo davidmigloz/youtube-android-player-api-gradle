@@ -23,7 +23,7 @@ Add the dependency:
 
 ```gradle
 dependencies {
-	compile 'com.github.davidmigloz:youtube-android-player-api-gradle:1.2.2'
+	compile 'com.github.davidmigloz:youtube-android-player-api-gradle:1.2.2.1'
 }
 ```
 
@@ -32,11 +32,12 @@ dependencies {
 - YouTubeAndroidPlayerApi v1.2.2
 
 ## API levels
+
 ```gradle
 minSdkVersion 19
-targetSdkVersion 25
-compileSdkVersion 25
-buildToolsVersion "25.0.2"
+targetSdkVersion 27
+compileSdkVersion 27
+buildToolsVersion "27.0.3"
 ```
 
 ## License
